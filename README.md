@@ -67,3 +67,11 @@ This work builds on many of the excellent works:
 
 ## Reference
 [1] Stewart, Russell, Mykhaylo Andriluka, and Andrew Y. Ng. "End-to-end people detection in crowded scenes." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+
+##检测结果：
+<br><br>
+![Image text](https://github.com/hujinxinb/FCHD_head_detect/blob/master/1_1.png)
+<br><br>
+![Image text](https://github.com/hujinxinb/FCHD_head_detect/blob/master/2_1.png)
+<br><br>
+![Image text](https://github.com/hujinxinb/FCHD_head_detect/blob/master/3_1.png)
