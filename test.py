@@ -1,0 +1,2 @@
+from head_detection_demo_1 import findPeopleNumHead
+findPeopleNumHead()
